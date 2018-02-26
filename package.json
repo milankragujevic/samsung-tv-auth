@@ -1,0 +1,28 @@
+{
+  "name": "samsung-tv-auth",
+  "version": "1.0.0",
+  "description": "Authentication library for Samsung 2015 J/H series TVs running Tizen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milankragujevic/samsung-tv-auth.git"
+  },
+  "keywords": [
+    "samsung",
+    "tizen",
+    "auth",
+    "smarttv"
+  ],
+  "author": "Milan Kragujevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milankragujevic/samsung-tv-auth/issues"
+  },
+  "homepage": "https://github.com/milankragujevic/samsung-tv-auth#readme",
+  "dependencies": {
+    "asmcrypto.js": "^0.22.0"
+  }
+}
